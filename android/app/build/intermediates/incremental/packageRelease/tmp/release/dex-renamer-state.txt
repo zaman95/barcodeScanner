@@ -1,0 +1,4 @@
+#Thu Jul 04 12:51:40 PKT 2019
+base.0=/Users/mac/myProjects/BarcodeDemo/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
